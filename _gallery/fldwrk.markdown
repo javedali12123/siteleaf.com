@@ -1,7 +1,7 @@
 ---
 title: FLDWRK
-date: 2017-12-11 15:03:00 -05:00
-position: 14
+date: 2017-12-12 01:33:00 +05:30
+position: 24
 image: "/uploads/FLDWRK.jpg"
 link: https://fldwrk.io
 ---

@@ -1,6 +1,6 @@
 ---
 title: Creating author pages with Jekyll and Siteleaf
-date: 2016-10-20 14:13:00 -04:00
+date: 2016-10-20 23:43:00 +05:30
 tags:
 - tutorial
 - jekyll

@@ -1,6 +1,6 @@
 ---
 title: Introducing remote themes
-date: 2017-11-30 13:00:00 -05:00
+date: 2017-11-30 23:30:00 +05:30
 tags:
 - jekyll
 - github

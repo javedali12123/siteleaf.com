@@ -1,6 +1,6 @@
 ---
 title: 'Advanced Liquid: Sort'
-date: 2015-04-07 10:00:00 -04:00
+date: 2015-04-07 19:30:00 +05:30
 tags:
 - tutorial
 - liquid

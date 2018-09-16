@@ -1,6 +1,6 @@
 ---
 title: Jekyll environments
-date: 2016-10-10 11:30:00 -04:00
+date: 2016-10-10 21:00:00 +05:30
 tags:
 - jekyll
 - tip

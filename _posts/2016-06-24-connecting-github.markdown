@@ -1,6 +1,6 @@
 ---
 title: Connecting GitHub and Siteleaf
-date: 2016-06-24 13:00:00 -04:00
+date: 2016-06-24 22:30:00 +05:30
 tags:
 - tutorial
 - jekyll

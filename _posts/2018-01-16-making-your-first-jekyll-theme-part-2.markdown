@@ -1,6 +1,6 @@
 ---
 title: 'Making your first Jekyll theme: Part 2'
-date: 2018-01-16 10:10:00 -05:00
+date: 2018-01-16 20:40:00 +05:30
 tags:
 - tutorial
 - jekyll

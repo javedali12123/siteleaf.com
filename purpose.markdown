@@ -1,8 +1,9 @@
 ---
 title: Purpose
 permalink: "/purpose/"
-layout: post
+position: 5
 color: green
+layout: post
 ---
 
 We believe that content management shouldn’t be hard. That you should be able to host your website wherever you want. That websites should be able to outlive their CMS. Our tools should be simple, but never dumbed down.

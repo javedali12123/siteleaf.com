@@ -1,7 +1,8 @@
 ---
 title: Privacy
-date: 2015-11-10 19:00:00 -05:00
+date: 2015-11-11 05:30:00 +05:30
 permalink: "/privacy/"
+position: 1
 layout: post
 ---
 

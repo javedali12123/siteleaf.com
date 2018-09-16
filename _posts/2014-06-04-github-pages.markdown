@@ -1,6 +1,6 @@
 ---
 title: Now publishing to GitHub Pages
-date: 2014-06-04 09:00:00 -04:00
+date: 2014-06-04 18:30:00 +05:30
 tags:
 - announcement
 - github

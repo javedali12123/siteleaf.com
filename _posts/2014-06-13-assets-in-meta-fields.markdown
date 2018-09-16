@@ -1,6 +1,6 @@
 ---
 title: 'Quick tip: Assets in meta fields'
-date: 2014-06-13 10:22:00 -04:00
+date: 2014-06-13 19:52:00 +05:30
 tags:
 - tip
 - liquid

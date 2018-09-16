@@ -1,6 +1,6 @@
 ---
 title: Image and video processing for your static site
-date: 2016-07-17 10:16:00 -04:00
+date: 2016-07-17 19:46:00 +05:30
 tags:
 - tutorial
 - aws

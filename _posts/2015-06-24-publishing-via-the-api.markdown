@@ -1,6 +1,6 @@
 ---
 title: Publishing via the API
-date: 2015-06-24 11:10:00 -04:00
+date: 2015-06-24 20:40:00 +05:30
 tags:
 - announcement
 - tutorial

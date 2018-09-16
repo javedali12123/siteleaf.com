@@ -1,6 +1,6 @@
 ---
 title: Join our team
-date: 2016-06-06 00:00:00 -04:00
+date: 2016-06-06 09:30:00 +05:30
 tags:
 - announcement
 hero: 

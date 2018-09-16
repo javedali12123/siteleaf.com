@@ -1,6 +1,6 @@
 ---
 title: Now publishing to SFTP
-date: 2014-06-13 10:35:00 -04:00
+date: 2014-06-13 20:05:00 +05:30
 tags:
 - announcement
 hero: 
