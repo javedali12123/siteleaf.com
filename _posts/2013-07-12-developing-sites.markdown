@@ -1,6 +1,6 @@
 ---
 title: Developing sites and themes
-date: 2013-07-11 15:34:00 -04:00
+date: 2013-07-12 01:04:00 +05:30
 tags:
 - tutorial
 - video

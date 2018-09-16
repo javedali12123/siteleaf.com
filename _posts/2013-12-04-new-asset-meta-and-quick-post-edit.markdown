@@ -1,6 +1,6 @@
 ---
 title: 'New: Asset Metadata and Quick Post Edit'
-date: 2013-12-03 14:53:00 -05:00
+date: 2013-12-04 01:23:00 +05:30
 tags:
 - announcement
 - v1

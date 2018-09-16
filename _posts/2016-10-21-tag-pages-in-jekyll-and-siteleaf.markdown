@@ -1,6 +1,6 @@
 ---
 title: Creating tag pages with Jekyll and Siteleaf
-date: 2016-10-21 12:13:00 -04:00
+date: 2016-10-21 21:43:00 +05:30
 tags:
 - tutorial
 - jekyll

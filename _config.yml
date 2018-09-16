@@ -1,19 +1,10 @@
 ---
-title: Siteleaf
-timezone: America/New_York
+title: Ali Javed
+timezone: Asia/Kolkata
 collections:
-  gallery:
-    title: Gallery
-    output: false
   posts:
     title: Posts
     output: true
-  blog_tags:
-    title: Tags
-    output: true
-  tweets:
-    title: Testimonials
-    output: false
   uploads:
     title: Uploads
     output: true
@@ -22,75 +13,11 @@ defaults:
     path: ''
     type: posts
   values:
-    permalink: "/blog/:title/"
     layout: post
-    image: 
-    description: 
-    button:
-      title: 
-      url: 
+    permalink: "/posts/:title/"
 - scope:
     path: ''
-    type: blog_tags
+    type: pages
   values:
-    layout: tag
-- scope:
-    path: ''
-    type: gallery
-  values:
-    image: 
-    link: 
-url: http://www.siteleaf.com
-description: Built for developers, Loved by everyone. Supports Jekyll, user collaboration,
-  publishing to AWS S3, GitHub Pages, FTP, and more.
+    layout: page
 permalink: pretty
-exclude:
-- Gruntfile.js
-- Gemfile
-- Gemfile.lock
-- package.json
-- README*
-- node_modules
-- ".gitignore"
-plugins:
-- jekyll-seo-tag
-- jekyll-sitemap
-markdown: kramdown
-kramdown:
-  input: GFM
-  hard_wrap: false
-highlighter: rouge
-excerpt_separator: |2+
-
-
-
-sass:
-  sass_dir: styles/
-  style: compressed
-per_page: 12
-date_format: "%b %d, %Y"
-google_analytics: UA-1666437-33
-twitter:
-  username: siteleaf
-logo: "/assets/logo.svg"
-future: true
-header_nav:
-  Blog: "/blog/"
-  Gallery: "/gallery/"
-  Plans: "/plans/"
-  Learn: http://learn.siteleaf.com
-  Log in: https://manage.siteleaf.com
-footer_nav:
-  Features: "/features/"
-  Press: http://siteleaf.dropmark.com/326718
-  Privacy: "/privacy/"
-  Terms: "/terms/"
-  GDPR: "/gdpr/"
-  Status: http://status.siteleaf.com
-  Chat: http://chat.siteleaf.com
-  Twitter: https://twitter.com/siteleaf
-scripts: '<script type="text/javascript">!function(e,t,n){function a(){var e=t.getElementsByTagName("script")[0],n=t.createElement("script");n.type="text/javascript",n.async=!0,n.src="https://beacon-v2.helpscout.net",e.parentNode.insertBefore(n,e)}if(e.Beacon=n=function(t,n,a){e.Beacon.readyQueue.push({method:t,options:n,data:a})},n.readyQueue=[],"complete"===t.readyState)return
-  a();e.attachEvent?e.attachEvent("onload",a):e.addEventListener("load",a,!1)}(window,document,window.Beacon||function(){});</script><script>window.Beacon(''init'',
-  ''13d71c30-bf3c-49d8-a515-60646ded4459'')</script>
-
-'

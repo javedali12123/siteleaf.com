@@ -1,6 +1,6 @@
 ---
 title: More whitelisted plugins
-date: 2016-12-09 16:42:00 -05:00
+date: 2016-12-10 03:12:00 +05:30
 tags:
 - announcement
 - jekyll

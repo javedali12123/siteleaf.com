@@ -1,6 +1,6 @@
 ---
 title: See you at GitHub Universe
-date: 2017-10-02 18:15:00 -04:00
+date: 2017-10-03 03:45:00 +05:30
 tags:
 - event
 - community

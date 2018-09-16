@@ -1,6 +1,6 @@
 ---
 title: Publishing a new blog post
-date: 2018-04-16 12:00:00 -04:00
+date: 2018-04-16 21:30:00 +05:30
 tags:
 - video
 - tutorial

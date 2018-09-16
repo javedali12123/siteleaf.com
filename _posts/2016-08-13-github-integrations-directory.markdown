@@ -1,6 +1,6 @@
 ---
 title: GitHub Integrations Directory
-date: 2016-08-12 14:59:00 -04:00
+date: 2016-08-13 00:29:00 +05:30
 tags:
 - announcement
 image: "/uploads/github-integrations.png"

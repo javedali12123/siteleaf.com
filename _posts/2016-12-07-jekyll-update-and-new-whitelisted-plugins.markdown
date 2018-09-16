@@ -1,6 +1,6 @@
 ---
 title: Jekyll update & new whitelisted plugins
-date: 2016-12-06 14:25:00 -05:00
+date: 2016-12-07 00:55:00 +05:30
 tags:
 - announcement
 - jekyll

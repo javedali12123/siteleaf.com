@@ -1,6 +1,6 @@
 ---
 title: JAMstack e-commerce with Siteleaf & Snipcart
-date: 2016-10-25 10:00:00 -04:00
+date: 2016-10-25 19:30:00 +05:30
 tags:
 - tutorial
 - jekyll

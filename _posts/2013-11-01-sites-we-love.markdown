@@ -1,6 +1,6 @@
 ---
 title: Sites we love
-date: 2013-10-31 15:24:00 -04:00
+date: 2013-11-01 00:54:00 +05:30
 tags:
 - inspiration
 hero: "/uploads/gallery.jpg"
